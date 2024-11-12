@@ -1,11 +1,11 @@
-title: Jim Steele # your name (or website title) here
-logo: "/images/jimBanff\ small.png?raw=true" # your photo (or logo) here
+title: #Jim Steele # your name (or website title) here
+logo: #"/images/jimBanff\ small.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Developer on the Edge
   <br><br>
-  Machine Learning 
+  #Machine Learning 
   <br><br>
-  <a href="https://www.linkedin.com/in/dijieming/">LinkedIn Profile</a> 
+ # <a href="https://www.linkedin.com/in/dijieming/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
